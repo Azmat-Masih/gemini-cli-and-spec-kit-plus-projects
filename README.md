@@ -1,4 +1,4 @@
-** 🌐 Gemini CLI & Spec Kit Projects **
+# 🌐 Gemini CLI & Spec Kit Projects
 
 This repository contains a collection of my experiments, tools, and mini-projects built using Gemini CLI and Spec Kit.
 The goal of this repo is to document my learning, showcase hands-on implementations, and build useful utilities using Google’s Gemini ecosystem.
