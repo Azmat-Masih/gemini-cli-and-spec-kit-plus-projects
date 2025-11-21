@@ -1,0 +1,3 @@
+2025-11-17|expense|50000|Shopping|buy a t-shirt
+2025-11-17|income|25000000|Salary|Software house income
+2025-11-17|income|80000000|Business|Import Export
