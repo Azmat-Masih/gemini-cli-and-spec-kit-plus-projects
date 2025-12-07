@@ -1,0 +1,5 @@
+# requirements.txt for hackathon_2_cli_todo_phase_1
+# This project uses only the Python standard library — no external packages required.
+# Recommended Python version: 3.8+
+# If you add dependencies later, list them here, e.g.:
+# requests==2.31.0
